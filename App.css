@@ -1,0 +1,117 @@
+body{
+  background-color: whitesmoke;
+
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.main1{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.innerh1{
+  padding: 10px;
+  font-family: Century Gothic;
+}
+.timer{
+  padding: 10px;
+  font-family: Century Gothic;
+  font-size: 25px;
+  margin: 10px;
+}
+.innerbutton{
+  width: 150px;
+  height: 45px;
+  border: none;
+  background-color: rgb(81, 156, 81);
+  margin: 10px;
+  font-family: Century Gothic;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.innerbutton1{
+  width: 150px;
+  height: 45px;
+  border: none;
+  background-color:rgb(230, 126, 85);
+  margin: 10px;
+  font-family: Century Gothic;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.innerbutton2{
+  width: 150px;
+  height: 45px;
+  border: none;
+  background-color: rgb(88, 176, 226);
+  margin: 10px;
+  font-family: Century Gothic;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.outerbutton{
+  width: 180px;
+  height: 40px;
+  border: none;
+  background-color: #BCEAD5;
+  color: #27374D;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  max-width: 600px;
+  height: 400px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background-color: #27374D;
+  box-shadow: 5px 5px 5px 5px #DDE6ED;
+  border-radius: 5px;
+  color: #BCEAD5;
+  border-radius:3px;
+  margin-top: 50px;
+}
+
+.card1 {
+  border: 1px solid #ccc;
+  padding: 80px 20px 20px 20px;
+  max-width: 800px;
+  height: 280px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  background-color: #27374D;
+  box-shadow: 5px 5px 5px 5px #DDE6ED;
+  border-radius: 5px;
+  color: #BCEAD5;
+  border-radius:5px;
+  margin-top: 180px;
+}
+
